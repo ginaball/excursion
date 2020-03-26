@@ -7,9 +7,31 @@ html {
 
 .title {
     font-size: 50px;
+    margin-bottom: 20px;
 }
 
 .app-link {
     font-size: 16px;
     color: aquamarine;
+}
+
+.excursion-video {
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.heading {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+.gray {
+    font-size: 21px;
+    color: gray;
+}
+
+footer {
+    text-align: right;
+    color: gray;
 }
